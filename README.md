@@ -7,6 +7,7 @@
 - 💬 Ask me about my developed project. 
 - 📫 How to reach me: Email: amlannag6@gmail.com or reach me at Linkedln:  https://www.linkedin.com/in/amlannag6/ . 
 - ⚡ Fun fact: Trying to lose weight and started learning golf. 
+- 📫 Portfolio: https://amlannag6.github.io/amlannag/ 
 
 Key Skills & Traits :
 • Hard-working listing programmer with a flair for creating elegant solutions in the least amount of time.
