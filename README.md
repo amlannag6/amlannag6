@@ -1,7 +1,7 @@
 ## Hi there, I'm Amlan Nag  👋
 
 #### Junior Software Developer, Full Stack Developer, Cyber Security, Data & Business Analyst System, IT Analyst.
-- 🔭 I’m currently working on "Prection of Covid-19 Vaccination Diplomacy" - a Machine Learning Project
+- 🔭 I’m currently working on "Prediction of Covid-19 Vaccination Diplomacy" - a Machine Learning Project
 - 🌱 I’m currently learning new machine learning techniques and deep learning . 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about my developed project. 
