@@ -9,6 +9,8 @@
 - 📫 How to reach me: Email: amlannag6@gmail.com or reach me at Linkedln:  https://www.linkedin.com/in/amlannag6/ . 
 - ⚡ Fun fact: Trying to lose weight and started learning golf. 
 - 📫 Portfolio: https://amlannag6.github.io/amlannag/ or http://bit.ly/amlannag 
+
+
 I am an aspiring Data Scientist and Software Developer, Specialist in Data Analysis, Machine Learning Model development, AI agent development, Web API, Meta Data, MYSQL database, PHP-based application and Android application development. I am a fourth-year computing science student at Thompson Rivers University. From childhood growing up alongside computers and technology, I have always been fascinated by how technology changed the world and enhanced people's lives. From the fascination and eagerness of learning new technology, I choose my path in computing science and have successfully completed the third year of computing science. Throughout the academic terms, I got interested in several development environments, data structure and data analysis. Now, developing new software or analyzing large data sets and using different classification and regression models, I design and plan various ML models and AI models which motivated me for my future career. In the future, I would like to do a Master of Data Science or software development, and I want to see myself as a software developer or a Data Scientist
 
 Key Skills & Traits :
