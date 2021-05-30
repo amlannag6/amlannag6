@@ -1,6 +1,6 @@
 ## Hi there, I'm Amlan Nag  👋
 
-#### Data Analyst at Fiscal Realities Economists
+#### Data Analytics at Fiscal Realities Economists
 (Junior Software Developer, Full Stack Developer, Cyber Security,IT Analyst.)
 - 🔭 I’m currently working on "Prediction of Covid-19 Vaccination Diplomacy" - a Machine Learning Project.
 - 🌱 I’m currently learning new machine learning techniques and deep learning. 
