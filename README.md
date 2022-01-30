@@ -1,6 +1,6 @@
 ## Hi there, I'm Amlan Nag  👋
 
-#### Data Analyst & Back-end Developer at Fiscal Realities Economists
+#### Data Analyst, Applications and Backend Developer at Fiscal Realities Economists
 (Junior Software Developer, Full Stack Developer, Cyber Security,IT Analyst)
 - 🔭 I’m currently working on several projects in Fiscal Realities. 
 - 🔭 I’m currently working on "Prediction of Covid-19 Vaccination Diplomacy" - a Machine Learning Project. (personal project) 
