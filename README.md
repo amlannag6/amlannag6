@@ -11,12 +11,12 @@
 - ⚡ Fun fact: Trying to lose weight !! 
 - 📫 Portfolio: https://amlannag6.github.io/amlannag/ or http://bit.ly/amlannag 
 - let's chat : https://doodle.com/bp/amlannag/hire-me 
-- EBS : https://www.linkedin.com/company/ebs-express-business-services/?viewAsMember=true 
+- EBS :![](https://www.linkedin.com/company/ebs-express-business-services/?viewAsMember=true) 
 
 
 I am an aspiring Big Data & ML Engineer, Specialist in Data Analysis, Machine Learning Model development, AI model development, Web API, Meta Data, MYSQL database, Python & PHP-based application and Android application development. I am a fourth-year computing science student at Thompson Rivers University. Growing up alongside computers and technology, I have always been fascinated by how technology changed the world and enhanced people's lives. From the fascination and eagerness of learning new technology, I choose my path in computing science and have completed the third year of computing science. Throughout the academic terms, I got interested in several development environments, data structure and data analysis. Now, developing new software or analyzing large data sets and using different classification and regression models, I design and plan various ML models and AI models, which motivated me for my future career. In the future, I would like to do a Master of Data Engineering or Big Data Engineering and I want to see myself as a Big Data & ML Engineer.
 
-![](https://github-readme-stats.vercel.app/api?username=amlannag6)
+![](https://github-readme-stats.vercel.app/api?username=amlannag6) Updating 
 Key Skills & Traits :
 • Hard-working listing programmer with a flair for creating elegant solutions in the least amount of time.
 • Dependable and goal-oriented IT Specialist with 3+ years of experience maintaining IT systems and providing extensive customer support.
@@ -24,4 +24,4 @@ Key Skills & Traits :
 • In-depth knowledge of social media marketing with expertise in identifying emerging market trends.
 • Experienced Secretary-General with a demonstrated history of working in the recreational facilities and services industry.
 • Skilled in Money Management, Marketing, Customer Service, and Independent Contributor. A strong business development professional with a Bachelor of Science - BCS focused on Computer Science from Thompson Rivers University.
-![](https://github-readme-stats.vercel.app/api?username=amlannag6)
+
