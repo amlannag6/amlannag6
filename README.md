@@ -24,3 +24,4 @@ Key Skills & Traits :
 • In-depth knowledge of social media marketing with expertise in identifying emerging market trends.
 • Experienced Secretary-General with a demonstrated history of working in the recreational facilities and services industry.
 • Skilled in Money Management, Marketing, Customer Service, and Independent Contributor. A strong business development professional with a Bachelor of Science - BCS focused on Computer Science from Thompson Rivers University.
+![](https://github-readme-stats.vercel.app/api?username=amlannag6)
