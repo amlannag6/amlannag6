@@ -19,6 +19,10 @@ I am an aspiring Big Data & ML Engineer, Specialist in Data Analysis, Machine Le
 ![](https://github-readme-stats.vercel.app/api?username=amlannag6) 
 
 ![](https://amlannag6.github.io/github-stats/generated/overview.svg)
+
+
+![](https://dipakparmar.github.io/github-stats/generated/overview.svg)
+![](https://dipakparmar.github.io/github-stats/generated/languages.svg)
 Updating 
 
 Key Skills & Traits :
