@@ -21,7 +21,7 @@ I am an aspiring Big Data & ML Engineer, Specialist in Data Analysis, Machine Le
 ![](https://amlannag6.github.io/github-stats/generated/overview.svg)
 
 
-![](https://dipakparmar.github.io/github-stats/generated/overview.svg)
+![](https://amlannag6.github.io/github-stats/generated/overview.svg)
 ![](https://dipakparmar.github.io/github-stats/generated/languages.svg)
 Updating 
 
