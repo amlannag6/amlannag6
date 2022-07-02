@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning new machine learning techniques and algorithms. 
 - 👯 I’m looking to collaborate on Github. 
 - 💬 Ask me about my developed project. 
-- 📫 How to reach me: Email: amlannag6@gmail.com or reach me at Linkedln:  https://www.linkedin.com/in/amlannag6/ . 
+- 📫 How to reach me: Email: amlannag6@gmail.com or reach me at Linkedln:  https://www.linkedin.com/in/amlannag6/
 - ⚡ Fun fact: Trying to lose weight !! 
 - 📫 Portfolio: https://amlannag6.github.io/amlannag/ or http://bit.ly/amlannag 
 - let's chat : https://doodle.com/bp/amlannag/hire-me 
