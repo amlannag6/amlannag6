@@ -1,6 +1,6 @@
 ## Hi there, I'm Amlan Nag  👋
 
-### Data Analyst, Applications and Backend Developer at Fiscal Realities Economists
+### Database Administrator, Applications and Backend Developer at Fiscal Realities Economists
 - 🔭 I’m currently working on several projects in Fiscal Realities (IDEA, STATS_Project,Revenue & Expenditure Analysis,The Canada First Nation Cannabis database,Cannabis Jurisdiction Website) 
 - 🔭 I’m currently working on "A Software Tool for Detecting Malicious Apps on Smartphones" - ML based research Project. (Bachelor Computing Science- Project Course)
 - 🔭 I’m currently working on "Prediction of Covid-19 Vaccination Diplomacy" - a Machine Learning Project. (Personal project) 
