@@ -8,7 +8,6 @@
 - 👯 I’m looking to collaborate on Github. 
 - 💬 Ask me about my developed project. 
 - 📫 How to reach me: Email: amlannag6@outlook.com or reach me at Linkedln:  https://www.linkedin.com/in/amlannag6/  & Email: amlannag6@gmail.com 
-- ⚡ Fun fact: Trying to lose weight !! 
 - 📫 Portfolio: Under Development 
 - let's chat : https://calendly.com/amlannag6/30min 
 - VC: https://www.linkedin.com/company/reactor-digital-venture 
@@ -21,7 +20,6 @@ I am an aspiring Big Data & ML Engineer, Specialist in Data Analysis, Machine Le
 
 ![](https://amlannag.github.io/github-stats/generated/overview.svg)
 ![](https://dipakparmar.github.io/github-stats/generated/languages.svg)
-Updating 
 
 Key Skills & Traits :
 • Hard-working listing programmer with a flair for creating elegant solutions in the least amount of time.
