@@ -3,8 +3,7 @@
 ### Database Analyst and Machine Learning Researcher at Fiscal Realities Economists
 
 
-- 🔭 I’m currently working on several projects in Fiscal Realities
-  Projects: 
+- 🔭 Projects: 
 • Indigenous Database Of Economic Activities: Conducted database administration, modelling, and optimization to ensure data integrity; Developed a user-friendly application interface for database interaction; Deployed regression analyses, machine learning algorithms, and structural design; Analyzed and interpreted client data
 • Revenue & Expenditure Analysis: Analyzed raw data and developed metadata for easy reference and utilization; Designed and developed calculator tools to assist in data analysis and presentation
 • Applications Security Assessment and Technical Report Development: Conducted security assessments;
