@@ -30,6 +30,5 @@ Poised at the crossroads of technology and neuroscience, I am resolute in my mis
 
 ![](https://github-readme-stats.vercel.app/api?username=amlannag6) 
 
-![](https://amlannag.github.io/github-stats/generated/overview.svg)
-![](https://dipakparmar.github.io/github-stats/generated/languages.svg)
+
 
