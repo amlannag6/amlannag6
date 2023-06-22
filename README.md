@@ -28,7 +28,6 @@ In addition to my existing skills, I am actively expanding my proficiency in Rea
 
 Poised at the crossroads of technology and neuroscience, I am resolute in my mission to unravel the mysteries of the brain. Each stride forward is driven by an unwavering determination to contribute meaningfully to this captivating field, forging innovative pathways in Neuroinformatics that will revolutionize our understanding of the human mind and propel scientific discovery to unprecedented heights.
 
-![](https://github-readme-stats.vercel.app/api?username=amlannag6) 
 
 
 
