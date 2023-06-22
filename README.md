@@ -1,31 +1,35 @@
 ## Hi there, I'm Amlan Nag  👋
 
-### Database Analyst and Backend Developer at Fiscal Realities Economists
-- 🔭 I’m currently working on several projects in Fiscal Realities (IDEA, STATS_Project,Revenue & Expenditure Analysis,The Canada First Nation Cannabis database,Cannabis Jurisdiction Website) 
-- 🔭 I’m currently working on "A Software Tool for Detecting Malicious Apps on Smartphones" - ML based research Project. (Bachelor Computing Science- Project Course)
-- 🔭 I’m currently working on "Prediction of Covid-19 Vaccination Diplomacy" - a Machine Learning Project. (Personal project) 
-- 🌱 I’m currently learning new machine learning techniques and algorithms. 
-- 👯 I’m looking to collaborate on Github. 
+### Database Analyst and Machine Learning Researcher at Fiscal Realities Economists
+
+
+- 🔭 I’m currently working on several projects in Fiscal Realities
+  Projects: 
+• Indigenous Database Of Economic Activities: Conducted database administration, modelling, and optimization to ensure data integrity; Developed a user-friendly application interface for database interaction; Deployed regression analyses, machine learning algorithms, and structural design; Analyzed and interpreted client data
+• Revenue & Expenditure Analysis: Analyzed raw data and developed metadata for easy reference and utilization; Designed and developed calculator tools to assist in data analysis and presentation
+• Applications Security Assessment and Technical Report Development: Conducted security assessments;
+Developed technical reports outlining vulnerabilities and recommendations for improvement
+• FMA Database and Tax Advisor Portal: Responsible for developing and managing the FMA database and tax advisor portal, including database administration, user interface design, and data analysis.
+• First Nation Cannabis Jurisdiction Website: Designed and developed an information system to manage the website; Oversaw database integration, content management, and security measures
+• Information Systems For Smaller Governments: Developed and implemented customized information systems for smaller governments; Designed strategies for database administration, user interface, and ongoing analytics.
+
+
+- 👯 I’m looking to collaborate on Github.
 - 💬 Ask me about my developed project. 
-- 📫 How to reach me: Email: amlannag6@outlook.com or reach me at Linkedln:  https://www.linkedin.com/in/amlannag6/  & Email: amlannag6@gmail.com 
+- 📫 How to reach me: Email: amlannag6@outlook.com or reach me at Linkedln:  https://www.linkedin.com/in/amlannag6/  & Email: amlannag6@outlook.com 
 - 📫 Portfolio: Under Development 
 - let's chat : https://calendly.com/amlannag6/30min 
-- VC: https://www.linkedin.com/company/reactor-digital-venture 
-- Trading Profile : https://www.linkedin.com/showcase/bullday
 
 
-I am an aspiring Big Data & ML Engineer, Specialist in Data Analysis, Machine Learning Model development, AI model development, Web API, Meta Data, MYSQL database, Python & PHP-based application and Android application development. I am a fourth-year computing science student at Thompson Rivers University. Growing up alongside computers and technology, I have always been fascinated by how technology changed the world and enhanced people's lives. From the fascination and eagerness of learning new technology, I choose my path in computing science and have completed the third year of computing science. Throughout the academic terms, I got interested in several development environments, data structure and data analysis. Now, developing new software or analyzing large data sets and using different classification and regression models, I design and plan various ML models and AI models, which motivated me for my future career. In the future, I would like to do a Master of Data Engineering or Big Data Engineering and I want to see myself as a Big Data & ML Engineer.
+
+I am an accomplished software developer, adept database analyst, and seasoned machine learning researcher, driven by an unwavering passion for technology's profound impact on society. With a Major in Computing Science from Thompson Rivers University, I have nurtured an insatiable curiosity and deep appreciation for cutting-edge advancements in the tech industry. Currently employed at FR, I relish the daily challenges that come with utilizing technology to solve intricate problems, optimizing systems through ingenious database applications, and deriving immense satisfaction from developing elegant problem-solving algorithms. I take great pride in my certification in Google Data Analytics.
+
+In addition to my existing skills, I am actively expanding my proficiency in React and Node.js, fortifying my toolkit to tackle multifaceted projects with versatility and finesse. Moreover, I am seizing the opportunity to immerse myself in the captivating realms of Neuroscience Fundamentals and Cognitive Neuroscience. By delving into these courses, I am laying a solid foundation for my ambitious journey towards a second degree in Computational Neuroscience, fueling my unyielding passion for Neuroinformatics.
+
+Poised at the crossroads of technology and neuroscience, I am resolute in my mission to unravel the mysteries of the brain. Each stride forward is driven by an unwavering determination to contribute meaningfully to this captivating field, forging innovative pathways in Neuroinformatics that will revolutionize our understanding of the human mind and propel scientific discovery to unprecedented heights.
 
 ![](https://github-readme-stats.vercel.app/api?username=amlannag6) 
 
 ![](https://amlannag.github.io/github-stats/generated/overview.svg)
 ![](https://dipakparmar.github.io/github-stats/generated/languages.svg)
-
-Key Skills & Traits :
-• Hard-working listing programmer with a flair for creating elegant solutions in the least amount of time.
-• Dependable and goal-oriented IT Specialist with 3+ years of experience maintaining IT systems and providing extensive customer support.
-• Results-driven Sales Management with 3+ years of experience adopting proven methods to nurture client relationships, generate leads and reach target goals.
-• In-depth knowledge of social media marketing with expertise in identifying emerging market trends.
-• Experienced Secretary-General with a demonstrated history of working in the recreational facilities and services industry.
-• Skilled in Money Management, Marketing, Customer Service, and Independent Contributor. A strong business development professional with a Bachelor of Science - BCS focused on Computer Science from Thompson Rivers University.
 
