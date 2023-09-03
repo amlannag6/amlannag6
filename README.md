@@ -1,6 +1,6 @@
 ## Hi there, I'm Amlan Nag  👋
 
-### Database Analyst and Machine Learning Researcher at Fiscal Realities Economists
+### Machine Learning Researcher at Fiscal Realities Economists
 
 
 - 🔭 Projects: 
