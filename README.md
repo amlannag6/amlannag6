@@ -13,9 +13,9 @@ In addition to my existing skills, I am actively expanding my proficiency in bac
 
 Poised at the crossroads of technology and neuroscience, I am resolute in my mission to unravel the mysteries of the brain. Each stride forward is driven by an unwavering determination to contribute meaningfully to this captivating field, forging innovative pathways in Neuroinformatics that will revolutionize our understanding of the human mind and propel scientific discovery to unprecedented heights.
 
--- Let's get connected --
-
 Ongoing Research/Thesis: "Integrating Human Physiology Insights into AI-Driven Neurorehabilitation: A Deep Reinforcement Learning Approach with Brain-Computer Interfaces." 
+
+
 # 🔭 Projects: 
 - FNFTA Audited Financial ChatBot: Developing an AI-based agent that can extract data from the Canadian government website, including PDF texts, tables, and scanned data. This agent will use various extraction tools, such as Google Vision, to collect unstructured data. The collected data will then be processed with a framework and implemented with LLM and ChatGPT API. This will allow users to interact with the data through a trained chatbot model by simply taking a few inputs on which profile, they want to look at and will have the option to export data as per user preferences. A complete AI/ML-based solution on large-scale unprocessed databases. 
 
@@ -33,8 +33,8 @@ Ongoing Research/Thesis: "Integrating Human Physiology Insights into AI-Driven N
 
 # Connect: 
 - 👯 I’m looking to collaborate on Github.
-- 💬 Ask me about my developed project. 
-- 📫 How to reach me: Email: amlannag6@outlook.com or reach me at Linkedln:  https://www.linkedin.com/in/amlannag6/  & Email: amlannag6@outlook.com 
+- 💬 Ask me about my ongoing or developed project. 
+- 📫 How to reach me: Email: amlannag6@outlook.com or reach me at Linkedln:  https://www.linkedin.com/in/amlannag6/ 
 - 📫 Portfolio: amlanportfolio.streamlit.app 
 - let's chat : https://calendly.com/amlannag6/30min 
 
