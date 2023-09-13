@@ -21,7 +21,7 @@
 
 - Information Systems For Smaller Governments: Developed and implemented customized information systems for smaller governments; Designed strategies for database administration, user interface, and ongoing analytics. 
 
-#Connect: 
+# Connect: 
 - 👯 I’m looking to collaborate on Github.
 - 💬 Ask me about my developed project. 
 - 📫 How to reach me: Email: amlannag6@outlook.com or reach me at Linkedln:  https://www.linkedin.com/in/amlannag6/  & Email: amlannag6@outlook.com 
