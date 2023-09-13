@@ -35,7 +35,7 @@ Ongoing Research/Thesis: "Integrating Human Physiology Insights into AI-Driven N
 - 👯 I’m looking to collaborate on Github.
 - 💬 Ask me about my ongoing or developed project. 
 - 📫 Email: amlannag6@outlook.com or reach me at Linkedln:  https://www.linkedin.com/in/amlannag6/ 
-- 📫 Portfolio: https://amlanportfolio.streamlit.app/    
+- 📫 Portfolio: https://amlan-portfolio.streamlit.app/    
 - let's chat : https://calendly.com/amlannag6/30min 
 
 
