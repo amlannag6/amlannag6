@@ -2,7 +2,7 @@
 
 # Machine Learning Researcher👨‍🔬 at Fiscal Realities Economists
 
-#### Python🐍,SQL,Javascript, Django, React, Julia || AI/ML-Neural Network 🔬DeepLearning🥽 | Computational Neuroscience 🧠
+#### Python🐍, SQL, Javascript, Django, React, Julia || AI/ML-Neural Network 🔬DeepLearning🥽 | Computational Neuroscience 🧠
 
 #### Talks about: Analytics, Neurotech, Machine Learning, Python Programming, and Artificial Intelligence
 
@@ -35,7 +35,7 @@ Ongoing Research/Thesis: "Integrating Human Physiology Insights into AI-Driven N
 - 👯 I’m looking to collaborate on Github.
 - 💬 Ask me about my ongoing or developed project. 
 - 📫 Email: amlannag6@outlook.com or reach me at Linkedln:  https://www.linkedin.com/in/amlannag6/ 
-- 📫 Portfolio: https://amlanportfolio.streamlit.app/   
+- 📫 Portfolio: https://amlanportfolio.streamlit.app/    
 - let's chat : https://calendly.com/amlannag6/30min 
 
 
