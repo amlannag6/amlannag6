@@ -1,8 +1,8 @@
 ## Hi there, I'm Amlan Nag  👋
 
-## Machine Learning Researcher👨‍🔬 at Fiscal Realities Economists
+# Machine Learning Researcher👨‍🔬 at Fiscal Realities Economists
 
-### Python🐍,SQL,Javascript, Django, React, Julia || AI/ML-Neural Network 🔬DeepLearning🥽 | Computational Neuroscience 🧠
+#### Python🐍,SQL,Javascript, Django, React, Julia || AI/ML-Neural Network 🔬DeepLearning🥽 | Computational Neuroscience 🧠
 
 # Talks about #analytics, #neurotech, #machinelearning, #pythonprogramming, and #artificialintelligence
 
