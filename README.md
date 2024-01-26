@@ -2,7 +2,7 @@
 
 # Machine Learning Researcher👨‍🔬 at Fiscal Realities Economists
 
-#### Python🐍, SQL, Javascript, Django, React, Julia || AI/ML-Neural Network 🔬DeepLearning🥽 | Computational Finance 🧠
+#### Python🐍, SQL, Javascript, Django, React || AI/ML-Neural Network 🔬DeepLearning🥽 | Computational Finance 🧠
 
 #### Talks about: Analytics, Neurotech, Machine Learning, Python Programming, and Artificial Intelligence
 
