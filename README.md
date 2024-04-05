@@ -2,9 +2,9 @@
 
 # Machine Learning Researcher👨‍🔬 at Fiscal Realities Economists
 
-#### Python🐍, SQL, Javascript, Django, React || AI/ML-Neural Network 🔬DeepLearning🥽 | Computational Finance 🧠
+#### Python🐍, SQL, Javascript || AI/ML-Neural Network 🔬DeepLearning🥽 | Computational Finance 🧠
 
-#### Talks about: Analytics, Neurotech, Machine Learning, Python Programming, and Artificial Intelligence
+#### Talks about: Analytics,  Machine Learning, Python Programming, and Artificial Intelligence
 
 # About Me:
 I am an accomplished full-stack developer, adept database analyst, and seasoned Machine Learning researcher driven by an unwavering passion for technology's profound impact on society. With a Major in Computing Science from Thompson Rivers University, I have nurtured an insatiable curiosity and deep appreciation for cutting-edge advancements in the tech industry. Currently employed at FR, I relish the daily challenges that come with utilizing technology to solve intricate problems, optimizing systems through ingenious database applications, and deriving immense satisfaction from developing elegant problem-solving algorithms. I take great pride in my certification in Google Data Analytics.
@@ -29,8 +29,7 @@ I am an accomplished full-stack developer, adept database analyst, and seasoned 
 
 # Connect: 
 - 👯 I’m looking to collaborate on Github.
-- 💬 Ask me about my ongoing or developed project. 
-- 📫 Email: amlannag6@outlook.com or reach me at Linkedln:  https://www.linkedin.com/in/amlannag6/ 
+-- 📫 Email: amlannag6@outlook.com or reach me at Linkedln:  https://www.linkedin.com/in/amlannag6/ 
 - 📫 Portfolio: https://amlan-portfolio.streamlit.app/    
 - let's chat : https://calendly.com/amlannag6/30min 
 
