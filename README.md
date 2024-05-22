@@ -8,15 +8,15 @@
 
 # About Me:
 
-Distinguished as a seasoned Machine Learning (ML) Researcher with extensive expertise in Python and a breadth of ML technologies including Natural Language Processing (NLP), LLM, TensorFlow, and Scikit-learn. My proficiency extends to SQL, Statistical Analysis, Database Development, and Operations, alongside Dynamic Web Applications. 
+I am an accomplished Machine Learning (ML) Researcher with robust expertise in Python and a diverse array of ML technologies, including Natural Language Processing (NLP), Large Language Models (LLMs), TensorFlow, and Scikit-learn. My technical proficiency extends to SQL, statistical analysis, database development and operations, and dynamic web applications.
 
-With a Major in Computing Science from Thompson Rivers University, I have nurtured an insatiable curiosity and deep appreciation for cutting-edge advancements in the tech industry. I take great pride in my certification in Google Data Analytics. 
+I hold a Bachelor's degree majoring in Computing Science from Thompson Rivers University, where I cultivated a deep appreciation for technological innovation. Additionally, I am certified in Google Data Analytics.
 
-Currently employed at FR, I relish the daily challenges that come with utilizing technology to solve intricate problems, optimizing systems through ingenious database applications, and deriving immense satisfaction from developing elegant problem-solving algorithms. 
+In my current role at Fiscal Realities Economists, I thrive on the challenges of utilizing advanced technology to address complex problems, optimizing systems through sophisticated database applications, and developing efficient, elegant algorithms.
 
-Bridging the domains of Finance and Technology, I bring a strong foundation in financial modeling and quantitative analysis, complemented by ongoing preparation for the Chartered Financial Analyst (CFA) Level I examination. My CFA study plan covers essential domains including Financial Statement Analysis, Quantitative Methods, Economics, Corporate Issuers, Equity Investments, Fixed Income, Portfolio Management, and others. 
+My professional journey bridges the domains of finance and technology, supported by a solid foundation in financial modeling and quantitative analysis. I am actively preparing for the CFA Level I examination, which encompasses key areas such as Financial Statement Analysis, Quantitative Methods, Economics, Corporate Issuers, Equity Investments, Fixed Income, and Portfolio Management.
 
-With proficiency in dynamic web applications development, financial analysis, and ML techniques, coupled with a strong academic foundation and ongoing professional development, I am well-equipped to tackle complex challenges at the intersection of technology and finance. Let's connect to explore potential collaborations and opportunities for mutual growth. 
+With expertise in ML, dynamic web application development, and financial analysis, along with a strong academic background and a commitment to continuous professional development, I am well-equipped to tackle intricate challenges at the intersection of technology and finance. I welcome the opportunity to connect and explore potential collaborations and avenues for mutual growth.
 
 # Connect: 
 - 👯 I’m looking to collaborate on Github.
