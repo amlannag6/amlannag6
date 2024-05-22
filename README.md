@@ -20,8 +20,7 @@ With proficiency in dynamic web applications development, financial analysis, an
 
 # Connect: 
 - 👯 I’m looking to collaborate on Github.
--- 📫 Email: amlannag6@outlook.com or reach me at Linkedln:  https://www.linkedin.com/in/amlannag6/ 
-- 📫 Portfolio: https://amlan-portfolio.streamlit.app/    
+-- 📫 Email: amlannag6@outlook.com or reach me at Linkedln:  https://www.linkedin.com/in/amlannag6/    
 - let's chat : https://calendly.com/amlannag6/30min 
 
 
