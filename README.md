@@ -8,20 +8,23 @@
 
 # About Me:
 
-I am an accomplished Machine Learning (ML) Researcher with robust expertise in Python and a diverse array of ML technologies, including Natural Language Processing (NLP), Large Language Models (LLMs), TensorFlow, and Scikit-learn. My technical proficiency extends to SQL, statistical analysis, database development and operations, and dynamic web applications.
+I am an accomplished Machine Learning (ML) Researcher with expertise in Python and a diverse suite of ML technologies, including Natural Language Processing (NLP), Large Language Models (LLMs), TensorFlow, and Scikit-learn. My technical proficiency spans SQL, statistical analysis, database development and operations, and the creation of dynamic web applications.
 
-I hold a Bachelor's degree majoring in Computing Science from Thompson Rivers University, where I cultivated a deep appreciation for technological innovation. Additionally, I am certified in Google Data Analytics.
+I hold a Bachelor's degree in Computing Science from Thompson Rivers University, where I developed a strong foundation in technological innovation and analytical problem-solving. My credentials also include a Google Data Analytics certification, reflecting my commitment to continuous learning and staying at the forefront of technology and analytics.
 
-In my current role at Fiscal Realities Economists, I thrive on the challenges of utilizing advanced technology to address complex problems, optimizing systems through sophisticated database applications, and developing efficient, elegant algorithms.
+Currently, I work at Fiscal Realities Economists, where I specialize in applying advanced technologies to address complex financial and economic challenges. I thrive on building robust database systems, developing efficient algorithms, and leveraging machine learning to drive actionable insights. My work often involves statistical modeling, predictive analytics, and portfolio optimization, bridging the domains of technology, finance, and investment strategies.
 
-My professional journey bridges the domains of finance and technology, supported by a solid foundation in financial modeling and quantitative analysis. I am actively preparing for the CFA Level I examination, which encompasses key areas such as Financial Statement Analysis, Quantitative Methods, Economics, Corporate Issuers, Equity Investments, Fixed Income, and Portfolio Management.
+In Fall 2025, I will begin my Master of Science in Finance at Simon Fraser University, focusing on quantitative investment strategies, risk management, and capital allocation frameworks. This program aligns with my career aspirations in the field of systematic trading and investment analytics, and underscores my dedication to advancing in the financial sector.
 
-With expertise in ML, dynamic web application development, and financial analysis, along with a strong academic background and a commitment to continuous professional development, I am well-equipped to tackle intricate challenges at the intersection of technology and finance. I welcome the opportunity to connect and explore potential collaborations and avenues for mutual growth.
+I am also preparing for the CFA Level I examination, enhancing my expertise in Financial Statement Analysis, Economics, Corporate Issuers, and Portfolio Management. This complements my skill set in developing data-driven financial models and actionable investment insights, positioning me to excel in roles that require a combination of technical and analytical precision.
+
+Beyond my professional interests, I am an active member of the Kamloops Target Sports Association and have volunteered with Emergency Support Services (ESS) Kamloops, showcasing my commitment to community engagement. My hobbies include golf, hunting, fishing, and horseback riding, reflecting my appreciation for outdoor pursuits and a well-rounded lifestyle.
+
+With a strong foundation in systematic investment strategies, data science, and risk analysis, I am passionate about delivering high-impact solutions for portfolio management and advanced asset allocation. I welcome connections with professionals to explore opportunities for collaboration and innovation.
 
 # Connect: 
 - 👯 I’m looking to collaborate on Github.
 -- 📫 Email: amlannag6@outlook.com or reach me at Linkedln:  https://www.linkedin.com/in/amlannag6/    
-- let's chat : https://calendly.com/amlannag6/30min 
 
 
 
