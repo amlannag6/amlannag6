@@ -8,19 +8,19 @@
 
 # About Me:
 
-I am an accomplished Machine Learning (ML) Researcher with expertise in Python and a diverse suite of ML technologies, including Natural Language Processing (NLP), Large Language Models (LLMs), TensorFlow, and Scikit-learn. My technical proficiency spans SQL, statistical analysis, database development and operations, and the creation of dynamic web applications.
+I’m an accomplished Machine Learning Researcher with a strong foundation in Python, NLP, LLMs, and applied data analytics. My experience spans a range of technical domains including SQL, statistical modeling, database development, and full-stack web architecture. I enjoy bridging machine learning with real-world problem solving—particularly in the intersection of technology, finance, and economics.
 
-I hold a Bachelor's degree in Computing Science from Thompson Rivers University, where I developed a strong foundation in technological innovation and analytical problem-solving. My credentials also include a Google Data Analytics certification, reflecting my commitment to continuous learning and staying at the forefront of technology and analytics.
+I earned my Bachelor's degree in Computing Science from Thompson Rivers University, where I focused on analytical systems and algorithmic design. Along the way, I completed certifications in Google Data Analytics and Financial Engineering, both of which deepened my interest in financial systems and data-driven investment frameworks.
 
-Currently, I work at Fiscal Realities Economists, where I specialize in applying advanced technologies to address complex financial and economic challenges. I thrive on building robust database systems, developing efficient algorithms, and leveraging machine learning to drive actionable insights. My work often involves statistical modeling, predictive analytics, and portfolio optimization, bridging the domains of technology, finance, and investment strategies.
+Currently, I work at Fiscal Realities Economists, applying machine learning to complex financial data, government reports, and economic planning tools. My work focuses on scalable infrastructure, predictive modeling, and developing systems that support decision-making across multi-year financial trends and investment analysis.
 
-In Fall 2025, I will begin my Master of Science in Finance at Simon Fraser University, focusing on quantitative investment strategies, risk management, and capital allocation frameworks. This program aligns with my career aspirations in the field of systematic trading and investment analytics, and underscores my dedication to advancing in the financial sector.
+In Fall 2025, I will begin my Master of Science in Finance at Simon Fraser University, where I plan to focus on quantitative investment strategies and capital allocation. This next step supports my long-term interest in systematic trading—particularly in areas where market microstructure, volatility dynamics, and technology intersect.
 
-I am also preparing for the CFA Level I examination, enhancing my expertise in Financial Statement Analysis, Economics, Corporate Issuers, and Portfolio Management. This complements my skill set in developing data-driven financial models and actionable investment insights, positioning me to excel in roles that require a combination of technical and analytical precision.
+I'm also exploring foundational finance topics through the CFA curriculum, particularly in financial analysis and portfolio theory, as part of expanding my strategic and analytical toolkit.
 
-Beyond my professional interests, I am an active member of the Kamloops Target Sports Association and have volunteered with Emergency Support Services (ESS) Kamloops, showcasing my commitment to community engagement. My hobbies include golf, hunting, fishing, and horseback riding, reflecting my appreciation for outdoor pursuits and a well-rounded lifestyle.
+Outside of work, I’m involved with the Kamloops Target Sports Association and volunteer with Emergency Support Services. I value precision, structure, and long-range thinking—qualities I believe are essential in trading and data-driven finance.
 
-With a strong foundation in systematic investment strategies, data science, and risk analysis, I am passionate about delivering high-impact solutions for portfolio management and advanced asset allocation. I welcome connections with professionals to explore opportunities for collaboration and innovation.
+I’m especially interested in building toward roles that apply machine learning and structured models to derivatives trading and strategy design. Always open to conversations around data, trading systems, and building robust analytical infrastructure in capital markets.
 
 # Connect: 
 - 👯 I’m looking to collaborate on Github.
