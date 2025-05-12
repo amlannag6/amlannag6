@@ -2,10 +2,6 @@
 
 # Machine Learning Researcher👨‍🔬 at Fiscal Realities Economists | MSc Finance Candidate - SFU Beedie 26 | AI/MLOps | Computational and Quantitative Finance | Systematic Options Trading
 
-#### Python🐍, SQL ||AI/MLOps | Computational & Quantitative Finance 🧠| Fintech 
-
-#### Talks about: Analytics,  Machine Learning, Python Programming, and Artificial Intelligence
-
 # About Me:
 
 I’m an accomplished Machine Learning Researcher with a strong foundation in Python, NLP, LLMs, and applied data analytics. My experience spans a range of technical domains including SQL, statistical modeling, database development, and full-stack web architecture. I enjoy bridging machine learning with real-world problem solving—particularly in the intersection of technology, finance, and economics.
