@@ -1,6 +1,6 @@
 ## Hi there, I'm Amlan Nag  👋
 
-# Machine Learning Researcher at Fiscal Realities Economists | MSc Finance Candidate - SFU Beedie 25 | AI/MLOps | Computational Finance and Quantitative Analysis  | Systematic Options Trading
+# Machine Learning Researcher at Fiscal Realities Economists | MSc Finance Candidate - SFU Beedie 27 | AI/MLOps | Computational Finance and Quantitative Analysis  | Systematic Options Trading
 
 # About Me:
 
