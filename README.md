@@ -1,6 +1,6 @@
 ## Hi there, I'm Amlan Nag  👋
 
-# Machine Learning Researcher at Fiscal Realities Economists | MSc Finance  - SFU Beedie 27 | AI/MLOps | Computational  and Quantitative Finance
+# Machine Learning Researcher at FRE | MSc Finance, SFU Beedie ’27 | MS Computer Science, Georgia Tech ’28 
 
 # About Me:
 
