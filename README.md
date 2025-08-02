@@ -20,8 +20,7 @@ I’m especially interested in building toward roles that apply machine learning
 
 # Connect: 
 - 👯 I’m looking to collaborate on Github.
--- 📫 Email: amlannag6@outlook.com or reach me at Linkedln:  https://www.linkedin.com/in/amlannag6/    
-
+-- 📫 Email: amlannag6@outlook.com or reach me at Linkedln:  [https://www.linkedin.com/in/amlannag/]
 
 
 
