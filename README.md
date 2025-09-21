@@ -2,6 +2,7 @@
 
 # Machine Learning Researcher at FRE | MSc Finance, SFU Beedie ’27 | MS Computer Science, Georgia Tech ’28 
 
+Quant-Connect: [https://www.quantconnect.com/u/amlan-nag/]
 # About Me:
 
 I am a Machine Learning Researcher with expertise in Python, Natural Language Processing (NLP), Large Language Models (LLM), C++ and applied data analytics. My technical background spans SQL, statistical modeling, database development, and full-stack web architecture. My work is driven by a focus on bridging machine learning with real-world problem solving, particularly at the intersection of finance, technology, and economics.
