@@ -4,19 +4,15 @@
 
 # About Me:
 
-I’m an accomplished Machine Learning Researcher with a strong foundation in Python, NLP, LLMs, and applied data analytics. My experience spans a range of technical domains including SQL, statistical modeling, database development, and full-stack web architecture. I enjoy bridging machine learning with real-world problem solving—particularly in the intersection of technology, finance, and economics.
+I am a Machine Learning Researcher with expertise in Python, Natural Language Processing (NLP), Large Language Models (LLM), C++ and applied data analytics. My technical background spans SQL, statistical modeling, database development, and full-stack web architecture. My work is driven by a focus on bridging machine learning with real-world problem solving, particularly at the intersection of finance, technology, and economics.
 
-I earned my Bachelor's degree in Computing Science from Thompson Rivers University, where I focused on analytical systems and algorithmic design. Along the way, I completed certifications in Google Data Analytics and Financial Engineering, both of which deepened my interest in financial systems and data-driven investment frameworks.
+I am currently pursuing two advanced degrees. At the Beedie School of Business, SFU, I am undertaking an MSc in Finance with a concentration in quantitative investment strategies and capital allocation. Beginning in Winter 2026, I will also pursue an MS in Computer Science at Georgia Tech (part-time), with a core focus on machine learning.
 
-Currently, I work at Fiscal Realities Economists, applying machine learning to complex financial data, government reports, and economic planning tools. My work focuses on scalable infrastructure, predictive modeling, and developing systems that support decision-making across multi-year financial trends and investment analysis.
+My finance master’s academic stream is in Investment Management (Specialization: Machine Learning), while my computer science master’s core research will focus on applied machine learning to trading systems, with particular emphasis on algorithmic and systematic strategies. Together, these programs form the foundation of my long-term goal: to design robust frameworks for trading and investment that integrate market microstructure, volatility dynamics, and advanced computational methods.
 
-In Fall 2025, I will begin my Master of Science in Finance at Simon Fraser University, where I plan to focus on quantitative investment strategies and capital allocation. This next step supports my long-term interest in systematic trading—particularly in areas where market microstructure, volatility dynamics, and technology intersect.
+Professionally, I work at Fiscal Realities Economists, where I apply machine learning to complex financial data, government reports, and economic planning. My contributions include building scalable infrastructure, developing predictive models, and designing tools that support multi-year financial analysis and decision-making in public finance and investment contexts.
 
-I'm also exploring foundational finance topics through the CFA curriculum, particularly in financial analysis and portfolio theory, as part of expanding my strategic and analytical toolkit.
-
-Outside of work, I’m involved with the Kamloops Target Sports Association and volunteer with Emergency Support Services. I value precision, structure, and long-range thinking—qualities I believe are essential in trading and data-driven finance.
-
-I’m especially interested in building toward roles that apply machine learning and structured models to derivatives trading and strategy design. Always open to conversations around data, trading systems, and building robust analytical infrastructure in capital markets.
+I hold a Bachelor’s degree in Computing Science from Thompson Rivers University, where I specialized in algorithmic design and analytical systems. In addition, I have completed certifications in Google Data Analytics and Financial Engineering, both of which strengthened my expertise in financial systems and data-driven investment frameworks.
 
 # Connect: 
 - 👯 I’m looking to collaborate on Github.
