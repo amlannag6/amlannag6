@@ -13,8 +13,11 @@ Professional background includes work at Fiscal Realities Economists, applying m
 
 # Connect: 
 -- I’m looking to collaborate on Github.
+
 -- 📫 Email: amlannag6@outlook.com
+
 -- Linkedln:  [https://www.linkedin.com/in/amlannag/]  
+
 -- Quant-Connect: [https://www.quantconnect.com/u/amlan-nag/]
 
 
