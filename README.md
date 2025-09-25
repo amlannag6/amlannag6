@@ -12,8 +12,10 @@ Currently pursuing an MSc in Finance (SFU Beedie) with focus on portfolio optimi
 Professional background includes work at Fiscal Realities Economists, applying machine learning to complex financial data, government reports, and investment planning. Completed professional certifications, including the Google Data Analytics Certificate and Financial Engineering & Risk Management Specialization (Columbia University).
 
 # Connect: 
-- 👯 I’m looking to collaborate on Github.
--- 📫 Email: amlannag6@outlook.com or reach me at Linkedln:  [https://www.linkedin.com/in/amlannag/]  or Quant-Connect: [https://www.quantconnect.com/u/amlan-nag/]
+-- I’m looking to collaborate on Github.
+-- 📫 Email: amlannag6@outlook.com
+-- Linkedln:  [https://www.linkedin.com/in/amlannag/]  
+-- Quant-Connect: [https://www.quantconnect.com/u/amlan-nag/]
 
 
 
